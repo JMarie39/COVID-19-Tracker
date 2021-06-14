@@ -17,4 +17,4 @@ A student-project contact tracing application.
 
 ### Disclaimer:
 
-- The program has not met all the [specifications](Documents/Project_Specifications.pdf) required.
+- The program has not met all the [specifications](Documentation/Project_Specifications.pdf) required.
