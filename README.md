@@ -17,4 +17,5 @@ A student-project contact tracing application.
 
 ### Disclaimer:
 
-- The program has not met all the [specifications](Documentation/Project_Specifications.pdf) required.
+- The program has not met all the specifications required.
+- The program specification can be found under the Documentation folder named Program Specification.
